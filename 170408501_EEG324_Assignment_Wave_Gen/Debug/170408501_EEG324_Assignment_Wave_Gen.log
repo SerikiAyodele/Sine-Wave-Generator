@@ -1,0 +1,28 @@
+﻿Build started 10/18/2019 1:28:06 AM.
+     1>Project "C:\Users\Emeka\Desktop\CAC\Mia's Sine wave generator\170408501_EEG324_Assignment_Wave_Gen\170408501_EEG324_Assignment_Wave_Gen\170408501_EEG324_Assignment_Wave_Gen.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\170408501_EEG324_Assignment_Wave_Gen.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"Glew and Glut\glew-1.11.0\include\GL" /I"Glew and Glut\freeglut\include\GL" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mainWaveGenerator.cpp
+         mainWaveGenerator.cpp
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(54): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(54): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(54): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(71): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(71): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(71): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(126): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\emeka\desktop\cac\mia's sine wave generator\170408501_eeg324_assignment_wave_gen\170408501_eeg324_assignment_wave_gen\mainwavegenerator.cpp(126): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Emeka\Desktop\CAC\Mia's Sine wave generator\170408501_EEG324_Assignment_Wave_Gen\Debug\170408501_EEG324_Assignment_Wave_Gen.exe" /NOLOGO /LIBPATH:"Glew and Glut\glew-1.11.0\lib" /LIBPATH:"Glew and Glut\freeglut\lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\170408501_EEG324_Assignment_Wave_Gen.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Emeka\Desktop\CAC\Mia's Sine wave generator\170408501_EEG324_Assignment_Wave_Gen\Debug\170408501_EEG324_Assignment_Wave_Gen.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Emeka\Desktop\CAC\Mia's Sine wave generator\170408501_EEG324_Assignment_Wave_Gen\Debug\170408501_EEG324_Assignment_Wave_Gen.lib" /MACHINE:X86 Debug\mainWaveGenerator.obj
+         170408501_EEG324_Assignment_Wave_Gen.vcxproj -> C:\Users\Emeka\Desktop\CAC\Mia's Sine wave generator\170408501_EEG324_Assignment_Wave_Gen\Debug\170408501_EEG324_Assignment_Wave_Gen.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Emeka\Desktop\CAC\Mia's Sine wave generator\170408501_EEG324_Assignment_Wave_Gen\Debug\170408501_EEG324_Assignment_Wave_Gen.exe;#1" /manifest Debug\170408501_EEG324_Assignment_Wave_Gen.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\170408501_EEG324_Assignment_Wave_Gen.unsuccessfulbuild".
+         Touching "Debug\170408501_EEG324_Assignment_Wave_Gen.lastbuildstate".
+     1>Done Building Project "C:\Users\Emeka\Desktop\CAC\Mia's Sine wave generator\170408501_EEG324_Assignment_Wave_Gen\170408501_EEG324_Assignment_Wave_Gen\170408501_EEG324_Assignment_Wave_Gen.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.74
